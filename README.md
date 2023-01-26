@@ -2,7 +2,7 @@
 
 ## Medical Synthetic Data_AI Challenge
 Codes for 2nd place solution for Medical Synthetic AI Challenge! <br>
-The CT one is 1nd place solution and the X-ray one is 2nd place solution! <br>
+The CT one is 1st place solution and the X-ray one is 2nd place solution! <br>
 
 <br>
 
