@@ -87,7 +87,7 @@ tifffile==2020.9.3
 timm==0.6.11
 torch==1.10.1
 torchvision==0.11.2
-tornado==6.1
+tornado==6.3.2
 tqdm==4.64.1
 traitlets==4.3.3
 Twisted==17.9.0
